@@ -71,7 +71,7 @@ class WebAPI {
 	}
 
 	/* Host Search Function
-	   Arguments:	ip - IP Address of specified host
+	   Arguments:	ip - IP Address of specified host(s)
 	   
 	   Returns: Result (associative array) from SHODAN webservices
 	*/
